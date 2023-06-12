@@ -1,0 +1,9 @@
+{
+  "name": "Age Extension",
+  "description": "Displays your age in years.",
+  "uuid": "age@mehedidaehyun",
+  "shell-version": ["3.36", "3.38", "40","41","42","43","44"],
+  "url": "https://github.com/rosegranate/age-gnome-extension-rose",
+  "settings-schema": "schemas/org.gnome.shell.extensions.age.gschema.xml",
+  "stylesheet": "stylesheet.css"
+}

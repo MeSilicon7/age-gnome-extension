@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.age" path="/org/gnome/shell/extensions/age/">
+    <key name="show-age" type="b">
+      <default>true</default>
+      <summary>Show Age</summary>
+      <description>Show your age in years.</description>
+    </key>
+  </schema>
+</schemalist>
